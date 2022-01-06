@@ -22,7 +22,6 @@ public class ZigzagConversion implements problems {
 
     String s;
     int numRows;
-    String output;
 
     public ZigzagConversion(String s, int numRows) {
         this.s = s;
